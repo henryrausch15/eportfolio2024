@@ -51,7 +51,7 @@ font-weight: 300;
     letter-spacing: 0.4px;
     font-family: "Open Sans", Sans-serif;
    /*Headings Color*/
-	color: #121D40;
+	color: #DAFDBA;
 }
 
 p {
@@ -61,12 +61,12 @@ p {
 	line-height: 23px;
     letter-spacing: 0.2px;
 	/*Paragraph Text Color*/
-    color: #483B59;
+    color: #9AEBA3;
 }
 
 a:hover, a:focus, a:active, a.active {
 /*Link Color*/
-    color: #6F5173;
+    color: #45C4B0;
 }
 a, a:hover, a:focus, a:active, a.active {
     outline: 0;
@@ -255,7 +255,7 @@ header .intro-text .intro-heading {
     font-weight: 500;
     font-size: 17px;
     text-transform: uppercase;
-    color: #121D40;
+    color: #012030;
     letter-spacing: 2px;
     margin-bottom: 20px;
 }
