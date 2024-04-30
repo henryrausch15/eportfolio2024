@@ -51,8 +51,7 @@ font-weight: 300;
     letter-spacing: 0.4px;
     font-family: "Open Sans", Sans-serif;
    /*Headings Color*/
-	color: #DAFDBA;
-}
+	color: #000000
 
 p {
     font-family: 'Roboto', sans-serif;
@@ -61,12 +60,12 @@ p {
 	line-height: 23px;
     letter-spacing: 0.2px;
 	/*Paragraph Text Color*/
-    color: #9AEBA3;
+    color: #000000;
 }
 
 a:hover, a:focus, a:active, a.active {
 /*Link Color*/
-    color: #45C4B0;
+    color: #000000;
 }
 a, a:hover, a:focus, a:active, a.active {
     outline: 0;
